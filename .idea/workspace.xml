@@ -237,7 +237,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mq_springmvc" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -741,12 +741,12 @@
       <updated>1472481640620</updated>
       <workItem from="1472481643879" duration="742000" />
       <workItem from="1472484968215" duration="846000" />
-      <workItem from="1472659267090" duration="5668000" />
+      <workItem from="1472659267090" duration="6011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7256000" />
+    <option name="totallyTimeSpent" value="7599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
